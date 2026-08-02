@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Chandravadhan7/programming/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Chandravadhan7/programming/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Chandravadhan7/programming/tree/master/1260-shift-2d-grid) |
 ## Matrix
@@ -37,13 +38,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Chandravadhan7/programming/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Chandravadhan7/programming/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Chandravadhan7/programming/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Chandravadhan7/programming/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Chandravadhan7/programming/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Chandravadhan7/programming/tree/master/0877-stone-game) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Chandravadhan7/programming/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
