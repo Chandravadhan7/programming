@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Chandravadhan7/programming/tree/master/0054-spiral-matrix) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Chandravadhan7/programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0436-find-right-interval](https://github.com/Chandravadhan7/programming/tree/master/0436-find-right-interval) |
 | [0486-predict-the-winner](https://github.com/Chandravadhan7/programming/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Chandravadhan7/programming/tree/master/0877-stone-game) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Chandravadhan7/programming/tree/master/0054-spiral-matrix) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Chandravadhan7/programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [1260-shift-2d-grid](https://github.com/Chandravadhan7/programming/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Chandravadhan7/programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Simulation
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Chandravadhan7/programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [1094-car-pooling](https://github.com/Chandravadhan7/programming/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/Chandravadhan7/programming/tree/master/1140-stone-game-ii) |
 | [2381-shifting-letters-ii](https://github.com/Chandravadhan7/programming/tree/master/2381-shifting-letters-ii) |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Chandravadhan7/programming/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Chandravadhan7/programming/tree/master/1510-stone-game-iv) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Chandravadhan7/programming/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
