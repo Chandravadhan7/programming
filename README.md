@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Chandravadhan7/programming/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/Chandravadhan7/programming/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Chandravadhan7/programming/tree/master/1260-shift-2d-grid) |
+| [1386-cinema-seat-allocation](https://github.com/Chandravadhan7/programming/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Chandravadhan7/programming/tree/master/1406-stone-game-iii) |
 | [1478-allocate-mailboxes](https://github.com/Chandravadhan7/programming/tree/master/1478-allocate-mailboxes) |
 | [1563-stone-game-v](https://github.com/Chandravadhan7/programming/tree/master/1563-stone-game-v) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Chandravadhan7/programming/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chandravadhan7/programming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandravadhan7/programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chandravadhan7/programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Chandravadhan7/programming/tree/master/1386-cinema-seat-allocation) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Chandravadhan7/programming/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chandravadhan7/programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Chandravadhan7/programming/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Chandravadhan7/programming/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
