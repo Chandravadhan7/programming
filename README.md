@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Chandravadhan7/programming/tree/master/0054-spiral-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Chandravadhan7/programming/tree/master/0304-range-sum-query-2d-immutable) |
+| [0312-burst-balloons](https://github.com/Chandravadhan7/programming/tree/master/0312-burst-balloons) |
 | [0436-find-right-interval](https://github.com/Chandravadhan7/programming/tree/master/0436-find-right-interval) |
 | [0486-predict-the-winner](https://github.com/Chandravadhan7/programming/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Chandravadhan7/programming/tree/master/0493-reverse-pairs) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0312-burst-balloons](https://github.com/Chandravadhan7/programming/tree/master/0312-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/Chandravadhan7/programming/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Chandravadhan7/programming/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Chandravadhan7/programming/tree/master/1140-stone-game-ii) |
