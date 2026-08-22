@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Chandravadhan7/programming/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2719-count-of-integers](https://github.com/Chandravadhan7/programming/tree/master/2719-count-of-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Chandravadhan7/programming/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Chandravadhan7/programming/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
