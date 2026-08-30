@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0543-diameter-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Chandravadhan7/programming/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -238,8 +239,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
