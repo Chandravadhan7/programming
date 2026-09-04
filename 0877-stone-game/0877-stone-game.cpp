@@ -9,7 +9,7 @@ public:
             return dp[i][j];
         }
 
-        int maax = max(piles[i]+topdown(i+1,j,dp,piles),piles[j]+topdown(i,j-1,dp,piles));
+        int maax = max(piles[i]-topdown(i+1,j,dp,piles),piles[j]-topdown(i,j-1,dp,piles));
 
         return dp[i][j] = maax;
     }
