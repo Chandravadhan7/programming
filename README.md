@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-allocate-mailboxes](https://github.com/Chandravadhan7/programming/tree/master/1478-allocate-mailboxes) |
 | [1563-stone-game-v](https://github.com/Chandravadhan7/programming/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/Chandravadhan7/programming/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/Chandravadhan7/programming/tree/master/1690-stone-game-vii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Chandravadhan7/programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Chandravadhan7/programming/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2381-shifting-letters-ii](https://github.com/Chandravadhan7/programming/tree/master/2381-shifting-letters-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Chandravadhan7/programming/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Chandravadhan7/programming/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/Chandravadhan7/programming/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/Chandravadhan7/programming/tree/master/1690-stone-game-vii) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Chandravadhan7/programming/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2719-count-of-integers](https://github.com/Chandravadhan7/programming/tree/master/2719-count-of-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Chandravadhan7/programming/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-allocate-mailboxes](https://github.com/Chandravadhan7/programming/tree/master/1478-allocate-mailboxes) |
 | [1510-stone-game-iv](https://github.com/Chandravadhan7/programming/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Chandravadhan7/programming/tree/master/1563-stone-game-v) |
+| [1690-stone-game-vii](https://github.com/Chandravadhan7/programming/tree/master/1690-stone-game-vii) |
 | [2719-count-of-integers](https://github.com/Chandravadhan7/programming/tree/master/2719-count-of-integers) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Chandravadhan7/programming/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Game Theory
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Chandravadhan7/programming/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Chandravadhan7/programming/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/Chandravadhan7/programming/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/Chandravadhan7/programming/tree/master/1690-stone-game-vii) |
 ## Recursion
 |  |
 | ------- |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Chandravadhan7/programming/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Chandravadhan7/programming/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/Chandravadhan7/programming/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/Chandravadhan7/programming/tree/master/1690-stone-game-vii) |
 ## Nim Game
 |  |
 | ------- |
@@ -217,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Chandravadhan7/programming/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Chandravadhan7/programming/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/Chandravadhan7/programming/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/Chandravadhan7/programming/tree/master/1690-stone-game-vii) |
 ## Design
 |  |
 | ------- |
