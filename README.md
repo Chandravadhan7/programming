@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Chandravadhan7/programming/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/Chandravadhan7/programming/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Chandravadhan7/programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0216-combination-sum-iii](https://github.com/Chandravadhan7/programming/tree/master/0216-combination-sum-iii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Chandravadhan7/programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0312-burst-balloons](https://github.com/Chandravadhan7/programming/tree/master/0312-burst-balloons) |
 | [0436-find-right-interval](https://github.com/Chandravadhan7/programming/tree/master/0436-find-right-interval) |
@@ -312,4 +313,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Chandravadhan7/programming/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Chandravadhan7/programming/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/Chandravadhan7/programming/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
