@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/Chandravadhan7/programming/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Chandravadhan7/programming/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Chandravadhan7/programming/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3966-count-good-integers-in-a-range](https://github.com/Chandravadhan7/programming/tree/master/3966-count-good-integers-in-a-range) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1690-stone-game-vii](https://github.com/Chandravadhan7/programming/tree/master/1690-stone-game-vii) |
 | [2719-count-of-integers](https://github.com/Chandravadhan7/programming/tree/master/2719-count-of-integers) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Chandravadhan7/programming/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3966-count-good-integers-in-a-range](https://github.com/Chandravadhan7/programming/tree/master/3966-count-good-integers-in-a-range) |
 ## Game Theory
 |  |
 | ------- |
