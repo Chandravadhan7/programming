@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Chandravadhan7/programming/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Chandravadhan7/programming/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Chandravadhan7/programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0135-candy](https://github.com/Chandravadhan7/programming/tree/master/0135-candy) |
 | [0216-combination-sum-iii](https://github.com/Chandravadhan7/programming/tree/master/0216-combination-sum-iii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Chandravadhan7/programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0312-burst-balloons](https://github.com/Chandravadhan7/programming/tree/master/0312-burst-balloons) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Chandravadhan7/programming/tree/master/0135-candy) |
 | [1386-cinema-seat-allocation](https://github.com/Chandravadhan7/programming/tree/master/1386-cinema-seat-allocation) |
 | [1686-stone-game-vi](https://github.com/Chandravadhan7/programming/tree/master/1686-stone-game-vi) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Chandravadhan7/programming/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
