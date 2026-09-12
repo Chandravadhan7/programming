@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chandravadhan7/programming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandravadhan7/programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Chandravadhan7/programming/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Chandravadhan7/programming/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chandravadhan7/programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Chandravadhan7/programming/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chandravadhan7/programming/tree/master/3483-unique-3-digit-even-numbers) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandravadhan7/programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chandravadhan7/programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chandravadhan7/programming/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Chandravadhan7/programming/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Chandravadhan7/programming/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chandravadhan7/programming/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Chandravadhan7/programming/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Chandravadhan7/programming/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/Chandravadhan7/programming/tree/master/1140-stone-game-ii) |
 | [2381-shifting-letters-ii](https://github.com/Chandravadhan7/programming/tree/master/2381-shifting-letters-ii) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Chandravadhan7/programming/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3903-smallest-stable-index-i](https://github.com/Chandravadhan7/programming/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Chandravadhan7/programming/tree/master/3904-smallest-stable-index-ii) |
 ## Depth-First Search
