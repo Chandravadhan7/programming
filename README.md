@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Chandravadhan7/programming/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Chandravadhan7/programming/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Chandravadhan7/programming/tree/master/0560-subarray-sum-equals-k) |
+| [0835-image-overlap](https://github.com/Chandravadhan7/programming/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Chandravadhan7/programming/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Chandravadhan7/programming/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/Chandravadhan7/programming/tree/master/1094-car-pooling) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Chandravadhan7/programming/tree/master/0054-spiral-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Chandravadhan7/programming/tree/master/0304-range-sum-query-2d-immutable) |
+| [0835-image-overlap](https://github.com/Chandravadhan7/programming/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Chandravadhan7/programming/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Chandravadhan7/programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Chandravadhan7/programming/tree/master/3882-minimum-xor-path-in-a-grid) |
