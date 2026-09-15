@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Chandravadhan7/programming/tree/master/0131-palindrome-partitioning) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2381-shifting-letters-ii](https://github.com/Chandravadhan7/programming/tree/master/2381-shifting-letters-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandravadhan7/programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2719-count-of-integers](https://github.com/Chandravadhan7/programming/tree/master/2719-count-of-integers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chandravadhan7/programming/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chandravadhan7/programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/Chandravadhan7/programming/tree/master/1686-stone-game-vi) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Chandravadhan7/programming/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Chandravadhan7/programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandravadhan7/programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chandravadhan7/programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Chandravadhan7/programming/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Chandravadhan7/programming/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/Chandravadhan7/programming/tree/master/1690-stone-game-vii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandravadhan7/programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2719-count-of-integers](https://github.com/Chandravadhan7/programming/tree/master/2719-count-of-integers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chandravadhan7/programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Chandravadhan7/programming/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Chandravadhan7/programming/tree/master/0042-trapping-rain-water) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandravadhan7/programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
 | ------- |
