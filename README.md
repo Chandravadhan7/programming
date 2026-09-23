@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Chandravadhan7/programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0543-diameter-of-binary-tree) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Chandravadhan7/programming/tree/master/1042-flower-planting-with-no-adjacent) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chandravadhan7/programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Chandravadhan7/programming/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3310-remove-methods-from-project](https://github.com/Chandravadhan7/programming/tree/master/3310-remove-methods-from-project) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Chandravadhan7/programming/tree/master/1042-flower-planting-with-no-adjacent) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Chandravadhan7/programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Chandravadhan7/programming/tree/master/3310-remove-methods-from-project) |
 | [3493-properties-graph](https://github.com/Chandravadhan7/programming/tree/master/3493-properties-graph) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Chandravadhan7/programming/tree/master/1042-flower-planting-with-no-adjacent) |
 | [3310-remove-methods-from-project](https://github.com/Chandravadhan7/programming/tree/master/3310-remove-methods-from-project) |
 | [3493-properties-graph](https://github.com/Chandravadhan7/programming/tree/master/3493-properties-graph) |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/Chandravadhan7/programming/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
@@ -411,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chandravadhan7/programming/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Graph Coloring
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Chandravadhan7/programming/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
