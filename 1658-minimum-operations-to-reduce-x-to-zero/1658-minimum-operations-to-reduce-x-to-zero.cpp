@@ -2,34 +2,30 @@ class Solution {
 public:
     int minOperations(vector<int>& nums, int x) {
         int n = nums.size();
-        vector<int> pre(n,0);
-        pre[0] = nums[0];
-        for(int i=1;i<n;i++){
-            pre[i] = pre[i-1] + nums[i];
+        int sum = accumulate(nums.begin(),nums.end(),0);
+        int rem = sum-x;
+        if(rem < 0){
+            return -1;
         }
-
-        int idx = lower_bound(pre.begin(),pre.end(),x)-pre.begin();
-
-        if(idx == n) return -1;
-        int ans = INT_MAX;;
-        if(pre[idx] == x){
-            ans = idx+1;
+        if(rem == 0){
+            return n;
         }
-
-        for(int i=n-1;i>=0;i--){
-            x -= nums[i];
-            if(x < 0){
-                break;
+        int curr = 0;
+        int mx = -1;
+        int l = 0;
+        for(int i=0;i<n;i++){
+            curr += nums[i];
+            while(curr > rem){
+                curr -= nums[l];
+                l++;
             }
-            if(x == 0){
-                ans = min(ans,n-i);
-            }
-
-            int idx = lower_bound(pre.begin(),pre.end(),x)-pre.begin();
-            if(idx < i && pre[idx] == x){
-                ans = min(ans,idx+1+n-i);
+            if(curr == rem){
+                mx = max(mx,i-l+1);
             }
         }
-        return ans==INT_MAX?-1:ans;
+        if(mx == -1){
+            return -1;
+        }
+        return n-mx;
     }
 };
