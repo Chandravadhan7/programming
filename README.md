@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Chandravadhan7/programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chandravadhan7/programming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandravadhan7/programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Chandravadhan7/programming/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Chandravadhan7/programming/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Chandravadhan7/programming/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Chandravadhan7/programming/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Chandravadhan7/programming/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chandravadhan7/programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Chandravadhan7/programming/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Chandravadhan7/programming/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3310-remove-methods-from-project](https://github.com/Chandravadhan7/programming/tree/master/3310-remove-methods-from-project) |
 | [3493-properties-graph](https://github.com/Chandravadhan7/programming/tree/master/3493-properties-graph) |
 ## Breadth-First Search
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Chandravadhan7/programming/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chandravadhan7/programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Chandravadhan7/programming/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Chandravadhan7/programming/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 ## Binary Tree
 |  |
 | ------- |
