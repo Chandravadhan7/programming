@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Chandravadhan7/programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Chandravadhan7/programming/tree/master/0687-longest-univalue-path) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Chandravadhan7/programming/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Chandravadhan7/programming/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chandravadhan7/programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Chandravadhan7/programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Chandravadhan7/programming/tree/master/0687-longest-univalue-path) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Chandravadhan7/programming/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chandravadhan7/programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Chandravadhan7/programming/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Chandravadhan7/programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Chandravadhan7/programming/tree/master/0687-longest-univalue-path) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Chandravadhan7/programming/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chandravadhan7/programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Chandravadhan7/programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Chandravadhan7/programming/tree/master/0687-longest-univalue-path) |
 ## Binary Search Tree
 |  |
 | ------- |
