@@ -1,38 +1,36 @@
 class Solution {
 public:
+    bool topdown(int i,int j,int b,vector<vector<vector<int>>> &dp,vector<vector<char>> &grid){
+        int m = grid.size();
+        int n = grid[0].size();
+        if(i >= m || j >= n){
+            return false;
+        }
+        if(grid[i][j] == '(')
+            b++;
+        else
+            b--;
+
+        if(b < 0)
+            return false;
+
+        if(i == m - 1 && j == n - 1)
+            return b == 0;
+
+        if(dp[i][j][b] != -1)
+            return dp[i][j][b];
+
+        bool ans = topdown(i + 1, j, b, dp, grid) ||
+                   topdown(i, j + 1, b, dp, grid);
+
+        return dp[i][j][b] = ans;
+    }
     bool hasValidPath(vector<vector<char>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
 
-        if(grid[0][0] == ')'){
-            return false;
-        }
+        vector<vector<vector<int>>> dp(m,vector<vector<int>>(n,vector<int>(m+n,-1)));
 
-        vector<vector<unordered_set<int>>> dp(m,vector<unordered_set<int>>(n));
-        dp[0][0].insert(1);
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                int val = (grid[i][j] == '(')?1:-1;
-                if(i > 0){
-                    for(auto x : dp[i-1][j]){
-                        if(x+val >= 0){
-                         dp[i][j].insert(x+val);
-                        }
-                    }
-                }
-                if(j > 0){
-                    for(auto x : dp[i][j-1]){
-                        if(x+val >= 0){
-                           dp[i][j].insert(x+val);
-                        }  
-                    }
-                }
-            }
-        }
-
-        if(dp[m-1][n-1].count(0)){
-            return true;
-        }
-        return false;
+        return topdown(0,0,0,dp,grid);
     }
 };
