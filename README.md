@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Chandravadhan7/programming/tree/master/1382-balance-a-binary-search-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Chandravadhan7/programming/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chandravadhan7/programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Chandravadhan7/programming/tree/master/2360-longest-cycle-in-a-graph) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Chandravadhan7/programming/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Chandravadhan7/programming/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3310-remove-methods-from-project](https://github.com/Chandravadhan7/programming/tree/master/3310-remove-methods-from-project) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1042-flower-planting-with-no-adjacent](https://github.com/Chandravadhan7/programming/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1096-brace-expansion-ii](https://github.com/Chandravadhan7/programming/tree/master/1096-brace-expansion-ii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Chandravadhan7/programming/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Chandravadhan7/programming/tree/master/2360-longest-cycle-in-a-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Chandravadhan7/programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Chandravadhan7/programming/tree/master/3310-remove-methods-from-project) |
 | [3493-properties-graph](https://github.com/Chandravadhan7/programming/tree/master/3493-properties-graph) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Chandravadhan7/programming/tree/master/1042-flower-planting-with-no-adjacent) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Chandravadhan7/programming/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/Chandravadhan7/programming/tree/master/3310-remove-methods-from-project) |
 | [3493-properties-graph](https://github.com/Chandravadhan7/programming/tree/master/3493-properties-graph) |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/Chandravadhan7/programming/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
@@ -484,4 +487,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Chandravadhan7/programming/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chandravadhan7/programming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chandravadhan7/programming/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Topological Sort
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/Chandravadhan7/programming/tree/master/2360-longest-cycle-in-a-graph) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/Chandravadhan7/programming/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/Chandravadhan7/programming/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
