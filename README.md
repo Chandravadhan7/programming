@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Chandravadhan7/programming/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Chandravadhan7/programming/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Chandravadhan7/programming/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Chandravadhan7/programming/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Chandravadhan7/programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0135-candy](https://github.com/Chandravadhan7/programming/tree/master/0135-candy) |
 | [0216-combination-sum-iii](https://github.com/Chandravadhan7/programming/tree/master/0216-combination-sum-iii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Chandravadhan7/programming/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Chandravadhan7/programming/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Chandravadhan7/programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0835-image-overlap](https://github.com/Chandravadhan7/programming/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Chandravadhan7/programming/tree/master/1260-shift-2d-grid) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chandravadhan7/programming/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/Chandravadhan7/programming/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Chandravadhan7/programming/tree/master/0131-palindrome-partitioning) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Chandravadhan7/programming/tree/master/1096-brace-expansion-ii) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Chandravadhan7/programming/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Chandravadhan7/programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Chandravadhan7/programming/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Chandravadhan7/programming/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/Chandravadhan7/programming/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Chandravadhan7/programming/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Chandravadhan7/programming/tree/master/0216-combination-sum-iii) |
 | [1096-brace-expansion-ii](https://github.com/Chandravadhan7/programming/tree/master/1096-brace-expansion-ii) |
