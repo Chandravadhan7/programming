@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chandravadhan7/programming/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Chandravadhan7/programming/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Chandravadhan7/programming/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Chandravadhan7/programming/tree/master/0131-palindrome-partitioning) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Chandravadhan7/programming/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Chandravadhan7/programming/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Chandravadhan7/programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Chandravadhan7/programming/tree/master/0131-palindrome-partitioning) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Chandravadhan7/programming/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Chandravadhan7/programming/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Chandravadhan7/programming/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Chandravadhan7/programming/tree/master/0079-word-search) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chandravadhan7/programming/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Chandravadhan7/programming/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Chandravadhan7/programming/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chandravadhan7/programming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chandravadhan7/programming/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
