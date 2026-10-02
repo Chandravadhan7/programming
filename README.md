@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Chandravadhan7/programming/tree/master/0687-longest-univalue-path) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Chandravadhan7/programming/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1382-balance-a-binary-search-tree](https://github.com/Chandravadhan7/programming/tree/master/1382-balance-a-binary-search-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Chandravadhan7/programming/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Chandravadhan7/programming/tree/master/0687-longest-univalue-path) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Chandravadhan7/programming/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Chandravadhan7/programming/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chandravadhan7/programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Chandravadhan7/programming/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Chandravadhan7/programming/tree/master/0687-longest-univalue-path) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Chandravadhan7/programming/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Chandravadhan7/programming/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chandravadhan7/programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Chandravadhan7/programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Chandravadhan7/programming/tree/master/0687-longest-univalue-path) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
