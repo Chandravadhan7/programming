@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Chandravadhan7/programming/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Chandravadhan7/programming/tree/master/0131-palindrome-partitioning) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/Chandravadhan7/programming/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/Chandravadhan7/programming/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Chandravadhan7/programming/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chandravadhan7/programming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/Chandravadhan7/programming/tree/master/0135-candy) |
 | [0376-wiggle-subsequence](https://github.com/Chandravadhan7/programming/tree/master/0376-wiggle-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Chandravadhan7/programming/tree/master/0678-valid-parenthesis-string) |
 | [0870-advantage-shuffle](https://github.com/Chandravadhan7/programming/tree/master/0870-advantage-shuffle) |
 | [1382-balance-a-binary-search-tree](https://github.com/Chandravadhan7/programming/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Chandravadhan7/programming/tree/master/1386-cinema-seat-allocation) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Chandravadhan7/programming/tree/master/0312-burst-balloons) |
 | [0376-wiggle-subsequence](https://github.com/Chandravadhan7/programming/tree/master/0376-wiggle-subsequence) |
 | [0486-predict-the-winner](https://github.com/Chandravadhan7/programming/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Chandravadhan7/programming/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Chandravadhan7/programming/tree/master/0877-stone-game) |
 | [0968-binary-tree-cameras](https://github.com/Chandravadhan7/programming/tree/master/0968-binary-tree-cameras) |
 | [1140-stone-game-ii](https://github.com/Chandravadhan7/programming/tree/master/1140-stone-game-ii) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chandravadhan7/programming/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Chandravadhan7/programming/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/Chandravadhan7/programming/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/Chandravadhan7/programming/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Chandravadhan7/programming/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chandravadhan7/programming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -497,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chandravadhan7/programming/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Chandravadhan7/programming/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Chandravadhan7/programming/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Chandravadhan7/programming/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chandravadhan7/programming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chandravadhan7/programming/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
