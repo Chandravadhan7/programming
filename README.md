@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Chandravadhan7/programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Chandravadhan7/programming/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chandravadhan7/programming/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Chandravadhan7/programming/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2381-shifting-letters-ii](https://github.com/Chandravadhan7/programming/tree/master/2381-shifting-letters-ii) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Chandravadhan7/programming/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Chandravadhan7/programming/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/Chandravadhan7/programming/tree/master/1686-stone-game-vi) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Chandravadhan7/programming/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Chandravadhan7/programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Chandravadhan7/programming/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandravadhan7/programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Chandravadhan7/programming/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chandravadhan7/programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Chandravadhan7/programming/tree/master/1096-brace-expansion-ii) |
 | [1478-allocate-mailboxes](https://github.com/Chandravadhan7/programming/tree/master/1478-allocate-mailboxes) |
 | [1686-stone-game-vi](https://github.com/Chandravadhan7/programming/tree/master/1686-stone-game-vi) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Chandravadhan7/programming/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Chandravadhan7/programming/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Chandravadhan7/programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandravadhan7/programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chandravadhan7/programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Chandravadhan7/programming/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Chandravadhan7/programming/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Chandravadhan7/programming/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Chandravadhan7/programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chandravadhan7/programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/Chandravadhan7/programming/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Chandravadhan7/programming/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1094-car-pooling](https://github.com/Chandravadhan7/programming/tree/master/1094-car-pooling) |
 | [1686-stone-game-vi](https://github.com/Chandravadhan7/programming/tree/master/1686-stone-game-vi) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Chandravadhan7/programming/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Chandravadhan7/programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Minimax
 |  |
