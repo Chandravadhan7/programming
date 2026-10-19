@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/Chandravadhan7/programming/tree/master/2381-shifting-letters-ii) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Chandravadhan7/programming/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Chandravadhan7/programming/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2661-first-completely-painted-row-or-column](https://github.com/Chandravadhan7/programming/tree/master/2661-first-completely-painted-row-or-column) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Chandravadhan7/programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Chandravadhan7/programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chandravadhan7/programming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Chandravadhan7/programming/tree/master/1260-shift-2d-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Chandravadhan7/programming/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chandravadhan7/programming/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2661-first-completely-painted-row-or-column](https://github.com/Chandravadhan7/programming/tree/master/2661-first-completely-painted-row-or-column) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Chandravadhan7/programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Chandravadhan7/programming/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chandravadhan7/programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Chandravadhan7/programming/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Chandravadhan7/programming/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2661-first-completely-painted-row-or-column](https://github.com/Chandravadhan7/programming/tree/master/2661-first-completely-painted-row-or-column) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chandravadhan7/programming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandravadhan7/programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chandravadhan7/programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
