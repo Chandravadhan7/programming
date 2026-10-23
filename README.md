@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-properties-graph](https://github.com/Chandravadhan7/programming/tree/master/3493-properties-graph) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Chandravadhan7/programming/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Chandravadhan7/programming/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Chandravadhan7/programming/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Chandravadhan7/programming/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Chandravadhan7/programming/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Chandravadhan7/programming/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/Chandravadhan7/programming/tree/master/0318-maximum-product-of-word-lengths) |
 | [1386-cinema-seat-allocation](https://github.com/Chandravadhan7/programming/tree/master/1386-cinema-seat-allocation) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Chandravadhan7/programming/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Chandravadhan7/programming/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Chandravadhan7/programming/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Chandravadhan7/programming/tree/master/3882-minimum-xor-path-in-a-grid) |
