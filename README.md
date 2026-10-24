@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/Chandravadhan7/programming/tree/master/0376-wiggle-subsequence) |
 | [0486-predict-the-winner](https://github.com/Chandravadhan7/programming/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Chandravadhan7/programming/tree/master/0678-valid-parenthesis-string) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Chandravadhan7/programming/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0877-stone-game](https://github.com/Chandravadhan7/programming/tree/master/0877-stone-game) |
 | [0968-binary-tree-cameras](https://github.com/Chandravadhan7/programming/tree/master/0968-binary-tree-cameras) |
 | [1140-stone-game-ii](https://github.com/Chandravadhan7/programming/tree/master/1140-stone-game-ii) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Chandravadhan7/programming/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Chandravadhan7/programming/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1096-brace-expansion-ii](https://github.com/Chandravadhan7/programming/tree/master/1096-brace-expansion-ii) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Chandravadhan7/programming/tree/master/1129-shortest-path-with-alternating-colors) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Chandravadhan7/programming/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Chandravadhan7/programming/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Chandravadhan7/programming/tree/master/1129-shortest-path-with-alternating-colors) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Chandravadhan7/programming/tree/master/2360-longest-cycle-in-a-graph) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/Chandravadhan7/programming/tree/master/0318-maximum-product-of-word-lengths) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Chandravadhan7/programming/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1386-cinema-seat-allocation](https://github.com/Chandravadhan7/programming/tree/master/1386-cinema-seat-allocation) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Chandravadhan7/programming/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Chandravadhan7/programming/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -565,4 +569,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/Chandravadhan7/programming/tree/master/2360-longest-cycle-in-a-graph) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Chandravadhan7/programming/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
