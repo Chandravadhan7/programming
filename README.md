@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chandravadhan7/programming/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Chandravadhan7/programming/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2381-shifting-letters-ii](https://github.com/Chandravadhan7/programming/tree/master/2381-shifting-letters-ii) |
+| [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Chandravadhan7/programming/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Chandravadhan7/programming/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Chandravadhan7/programming/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Chandravadhan7/programming/tree/master/2661-first-completely-painted-row-or-column) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Chandravadhan7/programming/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Chandravadhan7/programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Chandravadhan7/programming/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Chandravadhan7/programming/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandravadhan7/programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Chandravadhan7/programming/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Chandravadhan7/programming/tree/master/2957-remove-adjacent-almost-equal-characters) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-allocate-mailboxes](https://github.com/Chandravadhan7/programming/tree/master/1478-allocate-mailboxes) |
 | [1686-stone-game-vi](https://github.com/Chandravadhan7/programming/tree/master/1686-stone-game-vi) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Chandravadhan7/programming/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Chandravadhan7/programming/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Chandravadhan7/programming/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Chandravadhan7/programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandravadhan7/programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
