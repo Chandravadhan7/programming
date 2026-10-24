@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Chandravadhan7/programming/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1096-brace-expansion-ii](https://github.com/Chandravadhan7/programming/tree/master/1096-brace-expansion-ii) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Chandravadhan7/programming/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Chandravadhan7/programming/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Chandravadhan7/programming/tree/master/2360-longest-cycle-in-a-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Chandravadhan7/programming/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Chandravadhan7/programming/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Chandravadhan7/programming/tree/master/1129-shortest-path-with-alternating-colors) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Chandravadhan7/programming/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/Chandravadhan7/programming/tree/master/3310-remove-methods-from-project) |
 | [3493-properties-graph](https://github.com/Chandravadhan7/programming/tree/master/3493-properties-graph) |
