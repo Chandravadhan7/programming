@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chandravadhan7/programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chandravadhan7/programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Chandravadhan7/programming/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Chandravadhan7/programming/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Chandravadhan7/programming/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2561-rearranging-fruits](https://github.com/Chandravadhan7/programming/tree/master/2561-rearranging-fruits) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Chandravadhan7/programming/tree/master/2661-first-completely-painted-row-or-column) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1278-palindrome-partitioning-iii](https://github.com/Chandravadhan7/programming/tree/master/1278-palindrome-partitioning-iii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Chandravadhan7/programming/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Chandravadhan7/programming/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Chandravadhan7/programming/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2381-shifting-letters-ii](https://github.com/Chandravadhan7/programming/tree/master/2381-shifting-letters-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandravadhan7/programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2719-count-of-integers](https://github.com/Chandravadhan7/programming/tree/master/2719-count-of-integers) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Chandravadhan7/programming/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chandravadhan7/programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Chandravadhan7/programming/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chandravadhan7/programming/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1690-stone-game-vii](https://github.com/Chandravadhan7/programming/tree/master/1690-stone-game-vii) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Chandravadhan7/programming/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chandravadhan7/programming/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandravadhan7/programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2719-count-of-integers](https://github.com/Chandravadhan7/programming/tree/master/2719-count-of-integers) |
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Chandravadhan7/programming/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Chandravadhan7/programming/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Chandravadhan7/programming/tree/master/1129-shortest-path-with-alternating-colors) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Chandravadhan7/programming/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Chandravadhan7/programming/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/Chandravadhan7/programming/tree/master/3310-remove-methods-from-project) |
 | [3493-properties-graph](https://github.com/Chandravadhan7/programming/tree/master/3493-properties-graph) |
@@ -565,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Chandravadhan7/programming/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Chandravadhan7/programming/tree/master/2360-longest-cycle-in-a-graph) |
 ## Kosaraju's Algorithm
 |  |
@@ -578,4 +584,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Chandravadhan7/programming/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Memoization
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Chandravadhan7/programming/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Chandravadhan7/programming/tree/master/1857-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
