@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Chandravadhan7/programming/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Chandravadhan7/programming/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Chandravadhan7/programming/tree/master/1260-shift-2d-grid) |
+| [1349-maximum-students-taking-exam](https://github.com/Chandravadhan7/programming/tree/master/1349-maximum-students-taking-exam) |
 | [1386-cinema-seat-allocation](https://github.com/Chandravadhan7/programming/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Chandravadhan7/programming/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chandravadhan7/programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Chandravadhan7/programming/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Chandravadhan7/programming/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Chandravadhan7/programming/tree/master/1260-shift-2d-grid) |
+| [1349-maximum-students-taking-exam](https://github.com/Chandravadhan7/programming/tree/master/1349-maximum-students-taking-exam) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Chandravadhan7/programming/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chandravadhan7/programming/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Chandravadhan7/programming/tree/master/2661-first-completely-painted-row-or-column) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/Chandravadhan7/programming/tree/master/0968-binary-tree-cameras) |
 | [1140-stone-game-ii](https://github.com/Chandravadhan7/programming/tree/master/1140-stone-game-ii) |
 | [1278-palindrome-partitioning-iii](https://github.com/Chandravadhan7/programming/tree/master/1278-palindrome-partitioning-iii) |
+| [1349-maximum-students-taking-exam](https://github.com/Chandravadhan7/programming/tree/master/1349-maximum-students-taking-exam) |
 | [1406-stone-game-iii](https://github.com/Chandravadhan7/programming/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chandravadhan7/programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-allocate-mailboxes](https://github.com/Chandravadhan7/programming/tree/master/1478-allocate-mailboxes) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/Chandravadhan7/programming/tree/master/0318-maximum-product-of-word-lengths) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Chandravadhan7/programming/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1349-maximum-students-taking-exam](https://github.com/Chandravadhan7/programming/tree/master/1349-maximum-students-taking-exam) |
 | [1386-cinema-seat-allocation](https://github.com/Chandravadhan7/programming/tree/master/1386-cinema-seat-allocation) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Chandravadhan7/programming/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Chandravadhan7/programming/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -589,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Chandravadhan7/programming/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1349-maximum-students-taking-exam](https://github.com/Chandravadhan7/programming/tree/master/1349-maximum-students-taking-exam) |
 ## Memoization
 |  |
 | ------- |
@@ -597,4 +602,44 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Chandravadhan7/programming/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Maximum Flow
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Chandravadhan7/programming/tree/master/1349-maximum-students-taking-exam) |
+## Maximum Matching
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Chandravadhan7/programming/tree/master/1349-maximum-students-taking-exam) |
+## Bipartite Graph
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Chandravadhan7/programming/tree/master/1349-maximum-students-taking-exam) |
+## Edmonds–Karp Algorithm
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Chandravadhan7/programming/tree/master/1349-maximum-students-taking-exam) |
+## MPM Algorithm
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Chandravadhan7/programming/tree/master/1349-maximum-students-taking-exam) |
+## Push-Relabel Algorithm
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Chandravadhan7/programming/tree/master/1349-maximum-students-taking-exam) |
+## Minimum Cut
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Chandravadhan7/programming/tree/master/1349-maximum-students-taking-exam) |
+## Matching (Graph)
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Chandravadhan7/programming/tree/master/1349-maximum-students-taking-exam) |
+## Flow Network
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Chandravadhan7/programming/tree/master/1349-maximum-students-taking-exam) |
+## Dinic's Algorithm
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/Chandravadhan7/programming/tree/master/1349-maximum-students-taking-exam) |
 <!---LeetCode Topics End-->
