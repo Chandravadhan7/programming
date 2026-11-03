@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/Chandravadhan7/programming/tree/master/0376-wiggle-subsequence) |
 | [0436-find-right-interval](https://github.com/Chandravadhan7/programming/tree/master/0436-find-right-interval) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Chandravadhan7/programming/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Chandravadhan7/programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0480-sliding-window-median](https://github.com/Chandravadhan7/programming/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/Chandravadhan7/programming/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Chandravadhan7/programming/tree/master/0493-reverse-pairs) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/Chandravadhan7/programming/tree/master/0436-find-right-interval) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Chandravadhan7/programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0870-advantage-shuffle](https://github.com/Chandravadhan7/programming/tree/master/0870-advantage-shuffle) |
 | [1094-car-pooling](https://github.com/Chandravadhan7/programming/tree/master/1094-car-pooling) |
 | [1096-brace-expansion-ii](https://github.com/Chandravadhan7/programming/tree/master/1096-brace-expansion-ii) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Chandravadhan7/programming/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Chandravadhan7/programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Chandravadhan7/programming/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Chandravadhan7/programming/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Chandravadhan7/programming/tree/master/0877-stone-game) |
