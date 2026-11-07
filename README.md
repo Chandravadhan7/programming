@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/Chandravadhan7/programming/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/Chandravadhan7/programming/tree/master/1690-stone-game-vii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Chandravadhan7/programming/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1882-process-tasks-using-servers](https://github.com/Chandravadhan7/programming/tree/master/1882-process-tasks-using-servers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Chandravadhan7/programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Chandravadhan7/programming/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chandravadhan7/programming/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Chandravadhan7/programming/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1094-car-pooling](https://github.com/Chandravadhan7/programming/tree/master/1094-car-pooling) |
 | [1686-stone-game-vi](https://github.com/Chandravadhan7/programming/tree/master/1686-stone-game-vi) |
+| [1882-process-tasks-using-servers](https://github.com/Chandravadhan7/programming/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Chandravadhan7/programming/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Chandravadhan7/programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2931-maximum-spending-after-buying-items](https://github.com/Chandravadhan7/programming/tree/master/2931-maximum-spending-after-buying-items) |
