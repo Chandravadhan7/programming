@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Chandravadhan7/programming/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chandravadhan7/programming/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Chandravadhan7/programming/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/Chandravadhan7/programming/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Chandravadhan7/programming/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Chandravadhan7/programming/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Chandravadhan7/programming/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2719-count-of-integers](https://github.com/Chandravadhan7/programming/tree/master/2719-count-of-integers) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Chandravadhan7/programming/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chandravadhan7/programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3693-climbing-stairs-ii](https://github.com/Chandravadhan7/programming/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Chandravadhan7/programming/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3966-count-good-integers-in-a-range](https://github.com/Chandravadhan7/programming/tree/master/3966-count-good-integers-in-a-range) |
 ## Game Theory
