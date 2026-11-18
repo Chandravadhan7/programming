@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandravadhan7/programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2719-count-of-integers](https://github.com/Chandravadhan7/programming/tree/master/2719-count-of-integers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chandravadhan7/programming/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Chandravadhan7/programming/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Chandravadhan7/programming/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chandravadhan7/programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chandravadhan7/programming/tree/master/3090-maximum-length-substring-with-two-occurrences) |
