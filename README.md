@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Chandravadhan7/programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chandravadhan7/programming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandravadhan7/programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Chandravadhan7/programming/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Chandravadhan7/programming/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Chandravadhan7/programming/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Chandravadhan7/programming/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Chandravadhan7/programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandravadhan7/programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chandravadhan7/programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Chandravadhan7/programming/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Chandravadhan7/programming/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Chandravadhan7/programming/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chandravadhan7/programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandravadhan7/programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2719-count-of-integers](https://github.com/Chandravadhan7/programming/tree/master/2719-count-of-integers) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Chandravadhan7/programming/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Chandravadhan7/programming/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chandravadhan7/programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3693-climbing-stairs-ii](https://github.com/Chandravadhan7/programming/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Chandravadhan7/programming/tree/master/3882-minimum-xor-path-in-a-grid) |
